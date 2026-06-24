@@ -27,7 +27,7 @@ My goal is to build practical AI-powered systems that help businesses save time,
 * Digital marketing fundamentals
 * Documentation and project presentation
 * Problem-solving and communication
-* Technical and Complex Google Labs
+* Google Cloud Skills Boost hands-on labs
 
 ##  Projects I’m Working On
 
