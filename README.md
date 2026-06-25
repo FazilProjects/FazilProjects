@@ -31,6 +31,15 @@ My goal is to build practical AI-powered systems that help businesses save time,
 
 ## Featured Projects
 
+### AI Business Research & Lead CRM Dashboard
+
+An advanced AI-style business research and lead CRM dashboard with lead scoring, kanban pipeline, outreach angle generation, saved leads using localStorage, search/filter, and CSV export.
+
+* **Live Demo:** https://fazilprojects.github.io/ai-business-research-crm-dashboard/
+* **GitHub Repo:** https://github.com/FazilProjects/ai-business-research-crm-dashboard
+* **Tech Stack:** HTML, CSS, JavaScript, localStorage, CSV Export, GitHub Pages
+* **Status:** Completed advanced version
+
 ### AI Lead Generation Dashboard
 
 A practical AI-powered lead generation dashboard that helps businesses create ideal customer profiles, outreach messages, follow-up sequences, and lead qualification notes.
