@@ -33,15 +33,25 @@ My goal is to build practical AI-powered systems that help businesses save time,
 
 ### AI Lead Generation Dashboard
 
-A practical project to generate ideal customer profiles, outreach messages, follow-up sequences, and lead qualification notes for businesses.
+A practical AI-powered lead generation dashboard that helps businesses create ideal customer profiles, outreach messages, follow-up sequences, and lead qualification notes.
+
+* **Live Demo:** https://fazilprojects.github.io/ai-lead-generation-dashboard/
+* **GitHub Repo:** https://github.com/FazilProjects/ai-lead-generation-dashboard
+* **Tech Stack:** HTML, CSS, JavaScript, GitHub Pages
+* **Status:** Completed first version
 
 ### Ecommerce Product Research System
 
 A structured system for researching ecommerce products, analyzing suppliers, identifying risks, and creating optimized listing ideas.
 
+* **Status:** Planned
+
 ### AI Content Repurposing Workflow
 
 A workflow that turns one content idea into social media posts, email copy, ad copy, and short-form video script ideas.
+
+* **Status:** Planned
+
 
 ##  Learning & Certificates
 
