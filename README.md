@@ -29,7 +29,7 @@ My goal is to build practical AI-powered systems that help businesses save time,
 * Problem-solving and communication
 * Google Cloud Skills Boost hands-on labs
 
-##  Projects I’m Working On
+## Featured Projects
 
 ### AI Lead Generation Dashboard
 
