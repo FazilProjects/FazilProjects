@@ -51,9 +51,12 @@ A practical ecommerce product research dashboard for analyzing products, supplie
 
 ### AI Content Repurposing Workflow
 
-A workflow that turns one content idea into social media posts, email copy, ad copy, and short-form video script ideas.
+A practical AI content repurposing dashboard that turns one content idea into LinkedIn posts, Instagram captions, Facebook ad copy, email content, short-form video scripts, and content calendar ideas.
 
-* **Status:** Planned
+* **Live Demo:** https://fazilprojects.github.io/ai-content-repurposing-workflow/
+* **GitHub Repo:** https://github.com/FazilProjects/ai-content-repurposing-workflow
+* **Tech Stack:** HTML, CSS, JavaScript, GitHub Pages
+* **Status:** Completed first version
 
 
 ##  Learning & Certificates
