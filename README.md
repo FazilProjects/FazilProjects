@@ -42,9 +42,12 @@ A practical AI-powered lead generation dashboard that helps businesses create id
 
 ### Ecommerce Product Research System
 
-A structured system for researching ecommerce products, analyzing suppliers, identifying risks, and creating optimized listing ideas.
+A practical ecommerce product research dashboard for analyzing products, suppliers, profit potential, demand level, competition level, risk level, and listing ideas.
 
-* **Status:** Planned
+* **Live Demo:** https://fazilprojects.github.io/ecommerce-product-research-system/
+* **GitHub Repo:** https://github.com/FazilProjects/ecommerce-product-research-system
+* **Tech Stack:** HTML, CSS, JavaScript, GitHub Pages
+* **Status:** Completed first version
 
 ### AI Content Repurposing Workflow
 
