@@ -31,6 +31,11 @@ My goal is to build practical AI-powered systems that help businesses save time,
 
 ## Featured Projects
 
+Personal Portfolio Website
+Live Demo: https://fazilprojects.github.io/fazil-waseem-portfolio/
+GitHub Repo: https://github.com/FazilProjects/fazil-waseem-portfolio
+Status: Completed personal brand portfolio
+
 ### AI Business Research & Lead CRM Dashboard
 
 An advanced AI-style business research and lead CRM dashboard with lead scoring, kanban pipeline, outreach angle generation, saved leads using localStorage, search/filter, and CSV export.
