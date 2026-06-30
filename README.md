@@ -1,91 +1,105 @@
 # Hi, I'm Fazil Waseem 
 
-I am an aspiring AI Automation Builder from Karachi, Pakistan. I am currently learning AI automation, lead generation systems, ecommerce, and digital marketing.
+I am an aspiring AI Automation Builder from Karachi, Pakistan, learning by building practical projects in AI automation, lead generation, ecommerce research, content workflows, and digital marketing.
 
-My goal is to build practical AI-powered systems that help businesses save time, generate leads, improve workflows, and grow online.
+My goal is to build practical AI-powered systems that help businesses save time, generate leads, organize workflows, and grow online.
 
-##  Current Focus
+## Portfolio
 
-* Learning AI automation and practical AI workflows
-* Building real-world projects for lead generation and ecommerce
-* Improving my skills in digital marketing, Google Ads, and Facebook Ads
-* Creating a strong portfolio with GitHub projects, documentation, and case studies
+**Personal Portfolio Website**
+Live Demo: https://fazilprojects.github.io/fazil-waseem-portfolio/
+GitHub Repo: https://github.com/FazilProjects/fazil-waseem-portfolio
 
-##  AI Tools I Use
+## Current Focus
+
+* Building real-world AI automation and business workflow projects
+* Improving frontend skills with HTML, CSS, and JavaScript
+* Learning lead generation, ecommerce systems, and digital marketing
+* Creating clean GitHub documentation and live project demos
+* Building a strong technical portfolio before future opportunities
+
+## Tools I Use
 
 * ChatGPT
 * Claude
 * Gemini
-* Antigravity
 * Codex
-* Openclaw
+* Antigravity
+* VS Code
+* GitHub
+* Google Cloud Skills Boost
 
-##  Skills I’m Building
+## Skills I’m Building
 
 * AI automation workflows
 * Lead generation systems
+* Ecommerce product research
+* Frontend development
+* Dashboard design
 * Digital marketing fundamentals
-* Documentation and project presentation
-* Problem-solving and communication
-* Google Cloud Skills Boost hands-on labs
+* Project documentation
+* GitHub Pages deployment
+* Practical business systems
 
 ## Featured Projects
 
-Personal Portfolio Website
+### 1. Personal Portfolio Website
+
+A premium animated personal portfolio website showcasing my AI automation projects, ecommerce research systems, credentials, and learning proof.
+
 Live Demo: https://fazilprojects.github.io/fazil-waseem-portfolio/
 GitHub Repo: https://github.com/FazilProjects/fazil-waseem-portfolio
-Status: Completed personal brand portfolio
 
-### AI Business Research & Lead CRM Dashboard
+---
 
-An advanced AI-style business research and lead CRM dashboard with lead scoring, kanban pipeline, outreach angle generation, saved leads using localStorage, search/filter, and CSV export.
+### 2. AI Business Research & Lead CRM Dashboard
 
-- Lead priority labels: Hot, Warm, Cold
-- Follow-up date tracking
-- Copy outreach message button
+An advanced AI-style business research and lead CRM dashboard with lead scoring, kanban pipeline, saved leads, search/filter, follow-up tracking, CSV export, and outreach support.
 
-* **Live Demo:** https://fazilprojects.github.io/ai-business-research-crm-dashboard/
-* **GitHub Repo:** https://github.com/FazilProjects/ai-business-research-crm-dashboard
-* **Tech Stack:** HTML, CSS, JavaScript, localStorage, CSV Export, GitHub Pages
-* **Status:** Completed advanced version
+Live Demo: https://fazilprojects.github.io/ai-business-research-crm-dashboard/
+GitHub Repo: https://github.com/FazilProjects/ai-business-research-crm-dashboard
 
-### AI Lead Generation Dashboard
+---
 
-A practical AI-powered lead generation dashboard that helps businesses create ideal customer profiles, outreach messages, follow-up sequences, and lead qualification notes.
+### 3. AI Lead Generation Dashboard
 
-* **Live Demo:** https://fazilprojects.github.io/ai-lead-generation-dashboard/
-* **GitHub Repo:** https://github.com/FazilProjects/ai-lead-generation-dashboard
-* **Tech Stack:** HTML, CSS, JavaScript, GitHub Pages
-* **Status:** Completed first version
+A practical lead generation dashboard that helps create ideal customer profiles, outreach messages, follow-up sequences, and lead qualification notes.
 
-### Ecommerce Product Research System
+Live Demo: https://fazilprojects.github.io/ai-lead-generation-dashboard/
+GitHub Repo: https://github.com/FazilProjects/ai-lead-generation-dashboard
 
-A practical ecommerce product research dashboard for analyzing products, suppliers, profit potential, demand level, competition level, risk level, and listing ideas.
+---
 
-* **Live Demo:** https://fazilprojects.github.io/ecommerce-product-research-system/
-* **GitHub Repo:** https://github.com/FazilProjects/ecommerce-product-research-system
-* **Tech Stack:** HTML, CSS, JavaScript, GitHub Pages
-* **Status:** Completed first version
+### 4. Ecommerce Product Research System
 
-### AI Content Repurposing Workflow
+A product research dashboard for analyzing products, suppliers, profit potential, demand level, competition level, risk level, and listing ideas.
 
-A practical AI content repurposing dashboard that turns one content idea into LinkedIn posts, Instagram captions, Facebook ad copy, email content, short-form video scripts, and content calendar ideas.
+Live Demo: https://fazilprojects.github.io/ecommerce-product-research-system/
+GitHub Repo: https://github.com/FazilProjects/ecommerce-product-research-system
 
-* **Live Demo:** https://fazilprojects.github.io/ai-content-repurposing-workflow/
-* **GitHub Repo:** https://github.com/FazilProjects/ai-content-repurposing-workflow
-* **Tech Stack:** HTML, CSS, JavaScript, GitHub Pages
-* **Status:** Completed first version
+---
 
+### 5. AI Content Repurposing Workflow
 
-##  Learning & Certificates
+A content workflow dashboard that turns one content idea into LinkedIn posts, Instagram captions, Facebook ad copy, email content, short-form video scripts, and content calendar ideas.
 
-* AI Agents & Automation 
-* AI for Content Creation 
-* Intro to AI for Humans 
-* Google Cloud Skills Boost / Arcade — In progress
-* Digital Marketing Certificate — In progress
-* Vibe Coding Course Certificate — In progress
+Live Demo: https://fazilprojects.github.io/ai-content-repurposing-workflow/
+GitHub Repo: https://github.com/FazilProjects/ai-content-repurposing-workflow
 
-##  Contact
+## Learning & Certificates
+
+* AI Agents & Automation
+* AI for Content Creation
+* Intro to AI for Humans
+* No-Code Course Certificate
+* Google Cloud Skills Boost / Arcade learning
+* Credly badges and learning proof
+
+Google Cloud Skills Boost: https://www.skills.google/public_profiles/06656724-2d33-4532-a6d5-c14b943d6027
+Credly: https://www.credly.com/users/fazil-waseem
+
+## Contact
 
 Email: [millionairesfazil@gmail.com](mailto:millionairesfazil@gmail.com)
+GitHub: https://github.com/FazilProjects
+Portfolio: https://fazilprojects.github.io/fazil-waseem-portfolio/
