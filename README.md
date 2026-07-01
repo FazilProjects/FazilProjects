@@ -51,7 +51,16 @@ Live Demo: https://fazilprojects.github.io/fazil-waseem-portfolio/
 GitHub Repo: https://github.com/FazilProjects/fazil-waseem-portfolio
 
 ---
+### Google & Meta Ads Campaign Report Generator
 
+A practical campaign planning dashboard that takes a short business brief and generates a complete Google Ads and Meta Ads campaign report with strategy, keywords, ad copy, budget allocation, KPI targets, funnel planning, and a 7-day launch plan.
+
+- Live Demo: https://fazilprojects.github.io/google-meta-ads-campaign-planner/
+- GitHub Repo: https://github.com/FazilProjects/google-meta-ads-campaign-planner
+- Tech Stack: HTML, CSS, JavaScript, GitHub Pages
+- Status: Completed live portfolio project
+
+---
 ### 2. AI Business Research & Lead CRM Dashboard
 
 An advanced AI-style business research and lead CRM dashboard with lead scoring, kanban pipeline, saved leads, search/filter, follow-up tracking, CSV export, and outreach support.
